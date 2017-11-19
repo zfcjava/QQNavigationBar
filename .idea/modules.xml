@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QQZNav.iml" filepath="$PROJECT_DIR$/QQZNav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQNavigationBar.iml" filepath="$PROJECT_DIR$/QQNavigationBar.iml" />
+      <module fileurl="file://C:\Android\project\QQNavigationBar\QQZNav.iml" filepath="C:\Android\project\QQNavigationBar\QQZNav.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
